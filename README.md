@@ -1,3 +1,3 @@
-Ehi! Questo pack di texture per Minecraft l'ho fatto con quel sito super utile che si chiama Vanilla Tweaks (ho usato questo link: https://vanillatweaks.net/picker/resource-packs/).
+Hey! I made this Minecraft texture pack using that super useful site called Vanilla Tweaks (I used this link: https://vanillatweaks.net/picker/resource-packs/).
 
-L'idea era di non stravolgere il gioco. Volevo solo aggiungere un sacco di piccolezze e dettagli che rendessero il gioco più carino e curato, ma mantenendo sempre il solito stile Vanilla (quello originale, insomma).
+The idea was not to drastically change the game. I just wanted to add a lot of small things and details that would make the game nicer and more polished, but always keeping the usual Vanilla style (the original one, that is).
